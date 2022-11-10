@@ -1,2 +1,2 @@
 ### game-in-pygame
-Игра "Космические корабли" с помощью pygame
+Игра "Snake" с помощью pygame
